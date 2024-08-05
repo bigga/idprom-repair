@@ -1,5 +1,6 @@
 # idprom-repair
-SunBlade100 IDPROM randomizer (Linux)
+SunBlade100/150 IDPROM randomizer (Linux)
+(Tested on SunBlade 150)
 
 # Sun EEPROM (nvram): Alternative method to restore/change Ethernet address and Host ID
 
